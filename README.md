@@ -13,8 +13,8 @@
 ![image](https://github.com/SaraVanchova/Final-Project-Assessment-for-Scalefocus-Academy/assets/125595064/8c5e268f-63c5-4334-83a7-eaf8d8745103)
 ![image](https://github.com/SaraVanchova/Final-Project-Assessment-for-Scalefocus-Academy/assets/125595064/09ab942f-0705-45d8-9f16-c1373a175b2b)
 
-**4. Create Jenkins pipeline with content uploaded on -> link**
-  *Everything is explined with comments in the pipeline file* 
+**4. Create Jenkins pipeline with content uploaded on ->** [pipeline](https://github.com/SaraVanchova/Final-Project-Assessment-for-Scalefocus-Academy/blob/main/pipeline)
+*Everything is explined with comments in the pipeline file* 
 
 **5. Deploy on Jenkins**
 ![image](https://github.com/SaraVanchova/Final-Project-Assessment-for-Scalefocus-Academy/assets/125595064/4f29b3db-4af2-4329-8da7-0fe90f2dc02e)
