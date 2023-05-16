@@ -22,7 +22,7 @@
  *Problems encountered: /*    
  
 **4. Create Jenkins pipeline with content uploaded on ->** [pipeline](https://github.com/SaraVanchova/Final-Project-Assessment-for-Scalefocus-Academy/blob/main/pipeline)</br>
-*Everything is explined with comments in the pipeline file* </br></br>
+*Everything is explained with comments in the pipeline* </br></br>
 *Problems encountered: <br>1. Had to configure Kubernetes on Jenkins: Installment of Kubernetes plugins, In manage nodes and cloudes -> set up kubernetes cloud, in 
 Manage Jenkins -> Credentials had to upload the .kube config file.
   </br>2.Creating pipeline encountered issuess:</br>
