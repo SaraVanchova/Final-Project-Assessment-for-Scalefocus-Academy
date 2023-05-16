@@ -1,4 +1,8 @@
  # Final-Project-Assessment-for-Scalefocus-Academy
+
+##Using Minikube, Helm, Jenkins
+
+
 **1. Cloning the github repo for bitnami** 
 ![image](https://github.com/SaraVanchova/Final-Project-Assessment-for-Scalefocus-Academy/assets/125595064/8c9fa44b-ae08-42e3-95ee-b5faa518a2c0)</br>
 *Problems encountered: /*
