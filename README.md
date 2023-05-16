@@ -30,8 +30,8 @@ Failed to create namespace but it already exist, i fixed this by changing the co
 </br>The connections is ongoing I can access the page at anytime if the docker minikube is running and when i quit the docker.
 
 **6. Go to ip 127.0.0.1:80**
-![image](https://github.com/SaraVanchova/Final-Project-Assessment-for-Scalefocus-Academy/assets/125595064/2ab46e70-65a0-44fb-840c-1a62250d48af)
-
+![image](https://github.com/SaraVanchova/Final-Project-Assessment-for-Scalefocus-Academy/assets/125595064/2ab46e70-65a0-44fb-840c-1a62250d48af)<br><br>
+**_NOTE:_** The screenshots a different from the previous homeworks because I had to change the laptopt during the project. I couldn't get the pods running and my minikube faild. After I took a diffrent laptopt and reinstall everything I had no issues with that and successfuly managed to finish the project.
 
 
 
