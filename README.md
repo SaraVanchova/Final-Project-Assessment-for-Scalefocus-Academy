@@ -23,9 +23,10 @@
  
 **4. Create Jenkins pipeline with content uploaded on ->** [pipeline](https://github.com/SaraVanchova/Final-Project-Assessment-for-Scalefocus-Academy/blob/main/pipeline)</br>
 *Everything is explined with comments in the pipeline file* </br></br>
-*Problems encountered: 1. Had to configure Kubernetes on Jenkins: Installment of Kubernetes plugins, In manage nodes and cloudes -> set up kubernetes cloud, in 
+*Problems encountered: <br>1. Had to configure Kubernetes on Jenkins: Installment of Kubernetes plugins, In manage nodes and cloudes -> set up kubernetes cloud, in 
 Manage Jenkins -> Credentials had to upload the .kube config file.
-  </br>2.Creating pipeline encountered issuess: </br>2.1 ![image](https://github.com/SaraVanchova/Final-Project-Assessment-for-Scalefocus-Academy/assets/125595064/7e719afc-52a8-4fe1-9465-4eb48675e669) I resolved this with changing the \ -> / in the file path and deleteing C:.
+  </br>2.Creating pipeline encountered issuess:</br>
+       2.1 ![image](https://github.com/SaraVanchova/Final-Project-Assessment-for-Scalefocus-Academy/assets/125595064/7e719afc-52a8-4fe1-9465-4eb48675e669) I resolved this with changing the \ -> / in the file path and deleteing C:.
   </br>2.2 ![image](https://github.com/SaraVanchova/Final-Project-Assessment-for-Scalefocus-Academy/assets/125595064/b532f37b-9c2e-4185-8733-14e355fd72d3)
 Failed to create namespace but it already exist, i fixed this by changing the condition in the pipeline syntax.*
 
