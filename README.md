@@ -1,6 +1,6 @@
  # Final-Project-Assessment-for-Scalefocus-Academy
 
-## Using Minikube, Helm, Jenkins
+### Using Minikube, Helm, Jenkins
 
 
 **1. Cloning the github repo for bitnami** 
